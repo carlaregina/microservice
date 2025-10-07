@@ -6,18 +6,29 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+
+
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 @Configuration
 public class RabbitMQConfig {
 
-    @Value("${broker.queue.email.response}")
-    private String emailResponseQueue;
+
+    @Value("${broker.queue.email.name}")
+    private String emailQueue;
 
     @Bean
-    public Queue emailResponseQueue(){
-        return new Queue(emailResponseQueue, true);
+    public Queue emailQueue(){
+        return new Queue(emailQueue, true);
     }
+
+    // @Value("${broker.queue.email.response}")
+    // private String emailResponseQueue;
+
+    // @Bean
+    // public Queue emailResponseQueue(){
+    //     return new Queue(emailResponseQueue, true);
+    // }
 
     @Bean
     public Jackson2JsonMessageConverter messageConverter(){
