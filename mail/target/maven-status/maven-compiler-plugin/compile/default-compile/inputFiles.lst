@@ -1,0 +1,9 @@
+/home/cvasconc/estudos/aulas-java/microservice/mail/mail/src/main/java/com/ms/mail/MailApplication.java
+/home/cvasconc/estudos/aulas-java/microservice/mail/mail/src/main/java/com/ms/mail/config/RabbitMQConfig.java
+/home/cvasconc/estudos/aulas-java/microservice/mail/mail/src/main/java/com/ms/mail/consumers/EmailConsumer.java
+/home/cvasconc/estudos/aulas-java/microservice/mail/mail/src/main/java/com/ms/mail/dtos/EmailDTO.java
+/home/cvasconc/estudos/aulas-java/microservice/mail/mail/src/main/java/com/ms/mail/enums/StatusEmail.java
+/home/cvasconc/estudos/aulas-java/microservice/mail/mail/src/main/java/com/ms/mail/models/Email.java
+/home/cvasconc/estudos/aulas-java/microservice/mail/mail/src/main/java/com/ms/mail/models/EmailStatusResponse.java
+/home/cvasconc/estudos/aulas-java/microservice/mail/mail/src/main/java/com/ms/mail/repositories/EmailRepository.java
+/home/cvasconc/estudos/aulas-java/microservice/mail/mail/src/main/java/com/ms/mail/service/EmailService.java

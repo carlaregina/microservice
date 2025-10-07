@@ -1,0 +1,9 @@
+com/ms/mail/models/EmailStatusResponse.class
+com/ms/mail/config/RabbitMQConfig.class
+com/ms/mail/MailApplication.class
+com/ms/mail/enums/StatusEmail.class
+com/ms/mail/models/Email.class
+com/ms/mail/repositories/EmailRepository.class
+com/ms/mail/dtos/EmailDTO.class
+com/ms/mail/consumers/EmailConsumer.class
+com/ms/mail/service/EmailService.class

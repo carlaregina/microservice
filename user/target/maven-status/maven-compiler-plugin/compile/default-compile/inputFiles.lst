@@ -1,0 +1,10 @@
+/home/cvasconc/estudos/aulas-java/microservice/user/user/src/main/java/com/ms/user/UserApplication.java
+/home/cvasconc/estudos/aulas-java/microservice/user/user/src/main/java/com/ms/user/configs/RabbitMQConfig.java
+/home/cvasconc/estudos/aulas-java/microservice/user/user/src/main/java/com/ms/user/controller/UserController.java
+/home/cvasconc/estudos/aulas-java/microservice/user/user/src/main/java/com/ms/user/dtos/EmailDTO.java
+/home/cvasconc/estudos/aulas-java/microservice/user/user/src/main/java/com/ms/user/dtos/UserDTO.java
+/home/cvasconc/estudos/aulas-java/microservice/user/user/src/main/java/com/ms/user/models/EmailStatusResponse.java
+/home/cvasconc/estudos/aulas-java/microservice/user/user/src/main/java/com/ms/user/models/User.java
+/home/cvasconc/estudos/aulas-java/microservice/user/user/src/main/java/com/ms/user/producers/UserProducer.java
+/home/cvasconc/estudos/aulas-java/microservice/user/user/src/main/java/com/ms/user/repositories/UserRepository.java
+/home/cvasconc/estudos/aulas-java/microservice/user/user/src/main/java/com/ms/user/service/UserService.java

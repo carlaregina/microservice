@@ -1,0 +1,10 @@
+com/ms/user/dtos/UserDTO.class
+com/ms/user/models/EmailStatusResponse.class
+com/ms/user/repositories/UserRepository.class
+com/ms/user/models/User.class
+com/ms/user/dtos/EmailDTO.class
+com/ms/user/UserApplication.class
+com/ms/user/producers/UserProducer.class
+com/ms/user/service/UserService.class
+com/ms/user/controller/UserController.class
+com/ms/user/configs/RabbitMQConfig.class
