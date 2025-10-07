@@ -8,10 +8,12 @@ import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import com.ms.mail.entities.Email;
+
 import com.ms.mail.enums.StatusEmail;   
 import com.ms.mail.repositories.EmailRepository;
-import com.ms.mail.dtos.EmailStatusResponse;
+import com.ms.mail.models.EmailStatusResponse;
+
+import com.ms.mail.models.Email;
 
 
 @Service

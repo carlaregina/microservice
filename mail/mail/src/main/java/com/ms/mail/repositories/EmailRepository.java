@@ -1,9 +1,9 @@
 
-package main.java.com.ms.mail.repositories;
+package com.ms.mail.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-import com.ms.mail.entities.Email;
+import com.ms.mail.models.Email;
 
 
 @Repository
