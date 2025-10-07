@@ -9,6 +9,9 @@ import com.ms.user.dtos.UserDTO;
 import com.ms.user.models.User;
 import com.ms.user.repositories.UserRepository;
 
+import com.ms.user.models.EmailStatusResponse;
+import com.ms.user.producers.UserProducer;  
+
 @Service
 public class UserService {
 
